@@ -1,1 +1,2 @@
 This is from the first lab.
+This is the second sentence.
